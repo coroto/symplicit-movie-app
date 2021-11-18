@@ -6,7 +6,7 @@ In the following page you are presented with a movie search results UI, you will
 
 For example `https://api.tvmaze.com/search/shows?q=batman`
 and build the user interface based on the design attached below.
-the “show more results” button is supposed to return the next 3 results if there are any.
+
 
 ## Technologies used
 
