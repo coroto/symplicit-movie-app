@@ -4,9 +4,11 @@
 Description
 In the following page you are presented with a movie search results UI, you will need to hit the following API in order to show the results `https://api.tvmaze.com/search/shows?q=[your-query]`
 
+
 For example `https://api.tvmaze.com/search/shows?q=batman`
 and build the user interface based on the design attached below.
 
+[Live demo](https://coroto.github.io/symplicit-movie-app/)
 
 ## Technologies used
 
